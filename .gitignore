@@ -1,3 +1,5 @@
+# negeren van Podman en Terraform bestanden
+# Deze regels zorgen ervoor dat Podman en Terraform gerelateerde bestanden niet worden gevolgd door Git
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
